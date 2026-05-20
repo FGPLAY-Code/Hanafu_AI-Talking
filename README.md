@@ -47,7 +47,7 @@ com.hanafu.app/
 
 ### 1. 选择模型
 
-支持 `qwen2.5`, `deepseek-chat`, `gpt-3.5-turbo`, `gpt-4` 等，也可自定义模型名。
+支持 `qwen2.5`.
 
 ### 2. 开始对话
 
