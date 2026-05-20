@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">花譜</string>
+
+    <!-- ChatScreen -->
+    <string name="chat_title_default">花譜</string>
+    <string name="chat_back_desc">戻る</string>
+    <string name="chat_settings_desc">設定</string>
+    <string name="chat_thinking">考え中</string>
+    <string name="chat_input_hint">メッセージを入力…</string>
+    <string name="chat_empty_title">花譜</string>
+    <string name="chat_empty_subtitle">こんにちは、花譜です\nあなたのAI感情伴侶</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_clear_title">チャット履歴を消去</string>
+    <string name="settings_clear_message">すべてのチャット履歴を消去してもよろしいですか？この操作は元に戻せません。</string>
+    <string name="settings_confirm">確認</string>
+    <string name="settings_cancel">キャンセル</string>
+    <string name="settings_title">設定</string>
+    <string name="settings_back_desc">戻る</string>
+    <string name="settings_theme">テーマ設定</string>
+    <string name="settings_dark_mode">ダークモード 🌙</string>
+    <string name="settings_light_mode">ライトモード 🌞</string>
+    <string name="settings_data">データ管理</string>
+    <string name="settings_clear_button">すべてのチャット履歴を消去</string>
+    <string name="settings_about">關於</string>
+    <string name="settings_app_name">花譜</string>
+    <string name="settings_version">v0.1.1</string>
+    <string name="settings_description">AI感情伴侶対話アプリ</string>
+    <string name="settings_language">言語設定</string>
+
+    <!-- ConversationListScreen -->
+    <string name="conv_new_default_title">新しい会話</string>
+    <string name="conv_delete_title">会話を削除</string>
+    <string name="conv_delete_message">「%s」を削除してもよろしいですか？この操作は元に戻せません。</string>
+    <string name="conv_delete_confirm">削除</string>
+    <string name="conv_delete_cancel">キャンセル</string>
+    <string name="conv_list_title">会話リスト</string>
+    <string name="conv_settings_desc">設定</string>
+    <string name="conv_new_desc">新しい会話</string>
+    <string name="conv_empty_title">会話がありません</string>
+    <string name="conv_empty_hint">右下の+をタップして新しい会話を始めよう</string>
+    <string name="conv_message_count">%d 件のメッセージ</string>
+    <string name="conv_delete_desc">削除</string>
+
+    <!-- CharacterDialog -->
+    <string name="char_confirm_title">変更を確認</string>
+    <string name="char_confirm_message">キャラクター設定を保存してもよろしいですか？</string>
+    <string name="char_confirm_button">確認</string>
+    <string name="char_cancel_button">キャンセル</string>
+    <string name="char_dialog_title">キャラクター設定</string>
+    <string name="char_session_name">セッション名</string>
+    <string name="char_session_placeholder">新しい会話</string>
+    <string name="char_name_label">キャラクター名</string>
+    <string name="char_name_placeholder">花譜</string>
+    <string name="char_persona_label">キャラ設定</string>
+    <string name="char_persona_desc">AIはこの説明に基づいてロールプレイします。性格や話し方を詳しく記述してください</string>
+    <string name="char_persona_hint">キャラクターの性格、話し方を記述…</string>
+    <string name="char_greeting_label">挨拶文</string>
+    <string name="char_greeting_desc">新しい会話でAIが送る最初のメッセージ</string>
+    <string name="char_greeting_hint">こんにちは〜私は…</string>
+    <string name="char_save">保存</string>
+    <string name="char_reset">デフォルトに戻す</string>
+
+    <!-- SplashScreen -->
+    <string name="splash_title">🌸</string>
+    <string name="splash_name">花譜</string>
+    <string name="splash_subtitle">AI感情伴侶</string>
+
+    <!-- SendButton -->
+    <string name="send_desc">送信</string>
+
+    <!-- ChatViewModel errors -->
+    <string name="error_init">初期化に失敗しました：%s</string>
+    <string name="error_send">送信に失敗しました：%s</string>
+
+    <!-- UserAgreementScreen -->
+    <string name="agreement_title">花譜利用規約</string>
+    <string name="agreement_section1_title">I. 総則</string>
+    <string name="agreement_section1_body">1.1 花譜（以下「本ソフトウェア」といいます）はAI感情伴侶対話アプリケーションです。本ソフトウェアを使用することにより、本規約に同意したものとみなされます。1.2 本ソフトウェアは随時本規約を変更できるものとし、変更後の条項は公開と同時に効力を生じます。</string>
+    <string name="agreement_section2_title">II. サービス内容</string>
+    <string name="agreement_section2_body">2.1 本ソフトウェアはAI技術に基づく対話サービスを提供します。2.2 本ソフトウェアはネットワークサービスモデルを採用しており、サービス品質はお客様のネットワーク環境の影響を受ける可能性があります。2.3 本ソフトウェアは必要に応じてサービス内容を調整、停止、または終了する権利を有します。</string>
+    <string name="agreement_section3_title">III. ユーザー行動規範</string>
+    <string name="agreement_section3_body">3.1 お客様は本ソフトウェアを違法目的で使用しないことに同意するものとします。3.2 本ソフトウェアのリバースエンジニアリング、逆コンパイル、または改変を試みてはなりません。3.3 本ソフトウェアを通じてスパム、嫌がらせ、または悪意のあるコンテンツを送信してはなりません。</string>
+    <string name="agreement_section4_title">IV. プライバシーとデータ</string>
+    <string name="agreement_section4_body">4.1 本ソフトウェアはデフォルトでお客様の会話データをデバイスにローカル保存します。4.2 会話内容はAIサービスプロバイダーに送信されて処理されます。機密性の高い個人情報は共有しないでください。4.3 本ソフトウェアは商業目的でお客様の個人データを収集しません。</string>
+    <string name="agreement_section5_title">V. 免責事項</string>
+    <string name="agreement_section5_body">5.1 本ソフトウェアは「現状のまま」提供され、明示または黙示の保証は一切ありません。5.2 本ソフトウェアの使用または使用不可により生じたいかなる損害についても、本ソフトウェアは責任を負いません。5.3 AI生成コンテンツは参考用であり、本ソフトウェアの見解を代表するものではありません。</string>
+    <string name="agreement_section6_title">VI. 知的財産権</string>
+    <string name="agreement_section6_body">6.1 本ソフトウェアのコード、デザイン、およびブランドは知的財産法により保護されています。6.2 無断で本ソフトウェアを複製、変更、再配布することはできません。</string>
+    <string name="agreement_section7_title">VII. その他</string>
+    <string name="agreement_section7_body">7.1 本規約は、本ソフトウェアの使用に関するお客様と本ソフトウェアとの完全な合意を構成します。7.2 本規約のいずれかの条項が無効と判断された場合でも、その他の条項は完全に効力を有します。</string>
+    <string name="agreement_signature">—— 清久Ace</string>
+    <string name="agreement_year">2025</string>
+    <string name="agreement_button">上記の条項を読み、同意しました</string>
+    <string name="agreement_scroll_hint">スクロールして全文をお読みください</string>
+</resources>

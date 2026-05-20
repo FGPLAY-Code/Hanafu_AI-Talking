@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Hanafu</string>
+
+    <!-- ChatScreen -->
+    <string name="chat_title_default">Hanafu</string>
+    <string name="chat_back_desc">Back</string>
+    <string name="chat_settings_desc">Settings</string>
+    <string name="chat_thinking">Thinking</string>
+    <string name="chat_input_hint">Type a message…</string>
+    <string name="chat_empty_title">Hanafu</string>
+    <string name="chat_empty_subtitle">Hello, I\'m Hanafu\nyour AI emotional companion</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_clear_title">Clear chat history</string>
+    <string name="settings_clear_message">Are you sure you want to clear all chat history? This action cannot be undone.</string>
+    <string name="settings_confirm">Confirm</string>
+    <string name="settings_cancel">Cancel</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_back_desc">Back</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_dark_mode">Dark Mode 🌙</string>
+    <string name="settings_light_mode">Light Mode 🌞</string>
+    <string name="settings_data">Data Management</string>
+    <string name="settings_clear_button">Clear All Chat History</string>
+    <string name="settings_about">About</string>
+    <string name="settings_app_name">Hanafu</string>
+    <string name="settings_version">v0.1.1</string>
+    <string name="settings_description">AI Emotional Companion</string>
+    <string name="settings_language">Language</string>
+
+    <!-- ConversationListScreen -->
+    <string name="conv_new_default_title">New Chat</string>
+    <string name="conv_delete_title">Delete Conversation</string>
+    <string name="conv_delete_message">Are you sure you want to delete \"%s\"? This action cannot be undone.</string>
+    <string name="conv_delete_confirm">Delete</string>
+    <string name="conv_delete_cancel">Cancel</string>
+    <string name="conv_list_title">Conversations</string>
+    <string name="conv_settings_desc">Settings</string>
+    <string name="conv_new_desc">New Conversation</string>
+    <string name="conv_empty_title">No Conversations</string>
+    <string name="conv_empty_hint">Tap + to start a new chat</string>
+    <string name="conv_message_count">%d messages</string>
+    <string name="conv_delete_desc">Delete</string>
+
+    <!-- CharacterDialog -->
+    <string name="char_confirm_title">Confirm Changes</string>
+    <string name="char_confirm_message">Are you sure you want to save the character settings?</string>
+    <string name="char_confirm_button">Confirm</string>
+    <string name="char_cancel_button">Cancel</string>
+    <string name="char_dialog_title">Character Settings</string>
+    <string name="char_session_name">Session Name</string>
+    <string name="char_session_placeholder">New Chat</string>
+    <string name="char_name_label">Character Name</string>
+    <string name="char_name_placeholder">Hanafu</string>
+    <string name="char_persona_label">Persona</string>
+    <string name="char_persona_desc">Describe the character\'s personality and speaking style</string>
+    <string name="char_persona_hint">Describe personality, speaking style…</string>
+    <string name="char_greeting_label">Greeting</string>
+    <string name="char_greeting_desc">First message the AI sends in a new conversation</string>
+    <string name="char_greeting_hint">Hi~ I\'m…</string>
+    <string name="char_save">Save</string>
+    <string name="char_reset">Reset to Default</string>
+
+    <!-- SplashScreen -->
+    <string name="splash_title">🌸</string>
+    <string name="splash_name">Hanafu</string>
+    <string name="splash_subtitle">AI Emotional Companion</string>
+
+    <!-- SendButton -->
+    <string name="send_desc">Send</string>
+
+    <!-- ChatViewModel errors -->
+    <string name="error_init">Initialization failed: %s</string>
+    <string name="error_send">Send failed: %s</string>
+
+    <!-- UserAgreementScreen -->
+    <string name="agreement_title">Hanafu User Agreement</string>
+    <string name="agreement_section1_title">I. General Provisions</string>
+    <string name="agreement_section1_body">1.1 Hanafu (hereinafter referred to as "the Software") is an AI emotional companion application. By using this Software, you agree to be bound by the terms of this Agreement. 1.2 The Software reserves the right to modify this Agreement at any time. Modified terms will take effect immediately upon publication.</string>
+    <string name="agreement_section2_title">II. Services</string>
+    <string name="agreement_section2_body">2.1 The Software provides AI-powered conversational services. 2.2 The Software uses a network-based service model. Service quality may be affected by your network environment. 2.3 The Software reserves the right to adjust, suspend, or terminate services as needed.</string>
+    <string name="agreement_section3_title">III. User Conduct</string>
+    <string name="agreement_section3_body">3.1 You agree not to use the Software for any illegal purposes. 3.2 You shall not attempt to reverse engineer, decompile, or tamper with the Software. 3.3 You shall not send spam, harass others, or spread malicious content through the Software.</string>
+    <string name="agreement_section4_title">IV. Privacy &amp; Data</string>
+    <string name="agreement_section4_body">4.1 By default, the Software stores your conversation data locally on your device. 4.2 Your conversations are sent to the AI service provider for processing. We recommend not sharing sensitive personal information. 4.3 The Software does not collect your personal data for commercial purposes.</string>
+    <string name="agreement_section5_title">V. Disclaimer</string>
+    <string name="agreement_section5_body">5.1 The Software is provided "as is" without any express or implied warranty. 5.2 The Software is not liable for any losses arising from the use or inability to use the Software. 5.3 AI-generated content is for reference only and does not represent the views of the Software.</string>
+    <string name="agreement_section6_title">VI. Intellectual Property</string>
+    <string name="agreement_section6_body">6.1 The code, design, and brand of the Software are protected by intellectual property laws. 6.2 You may not copy, modify, or redistribute the Software without authorization.</string>
+    <string name="agreement_section7_title">VII. Other</string>
+    <string name="agreement_section7_body">7.1 This Agreement constitutes the entire agreement between you and the Software regarding your use of the Software. 7.2 If any provision of this Agreement is found to be invalid, the remaining provisions shall remain in full force and effect.</string>
+    <string name="agreement_signature">—— Qingjiu Ace</string>
+    <string name="agreement_year">2025</string>
+    <string name="agreement_button">I have read and agree to the terms above</string>
+    <string name="agreement_scroll_hint">Please scroll to read the full agreement</string>
+</resources>

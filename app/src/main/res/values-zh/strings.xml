@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">花谱</string>
+
+    <!-- ChatScreen -->
+    <string name="chat_title_default">花谱</string>
+    <string name="chat_back_desc">返回</string>
+    <string name="chat_settings_desc">设置</string>
+    <string name="chat_thinking">思考中</string>
+    <string name="chat_input_hint">输入消息…</string>
+    <string name="chat_empty_title">花谱</string>
+    <string name="chat_empty_subtitle">你好，我是花谱\n你的AI情感陪伴伙伴</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_clear_title">清除聊天记录</string>
+    <string name="settings_clear_message">确定要清除所有聊天记录吗？此操作不可撤销。</string>
+    <string name="settings_confirm">确定</string>
+    <string name="settings_cancel">取消</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_back_desc">返回</string>
+    <string name="settings_theme">主题设置</string>
+    <string name="settings_dark_mode">花夜模式 🌙</string>
+    <string name="settings_light_mode">花昼模式 🌞</string>
+    <string name="settings_data">数据管理</string>
+    <string name="settings_clear_button">清除所有聊天记录</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_app_name">花谱 Hanafu</string>
+    <string name="settings_version">v0.1.1</string>
+    <string name="settings_description">AI情感陪伴对话应用</string>
+    <string name="settings_language">语言设置</string>
+
+    <!-- ConversationListScreen -->
+    <string name="conv_new_default_title">新对话</string>
+    <string name="conv_delete_title">删除会话</string>
+    <string name="conv_delete_message">确定要删除「%s」吗？此操作不可撤销。</string>
+    <string name="conv_delete_confirm">删除</string>
+    <string name="conv_delete_cancel">取消</string>
+    <string name="conv_list_title">会话列表</string>
+    <string name="conv_settings_desc">设置</string>
+    <string name="conv_new_desc">新建会话</string>
+    <string name="conv_empty_title">暂无会话</string>
+    <string name="conv_empty_hint">点击右下角 + 开始新对话</string>
+    <string name="conv_message_count">%d 条消息</string>
+    <string name="conv_delete_desc">删除</string>
+
+    <!-- CharacterDialog -->
+    <string name="char_confirm_title">确认修改</string>
+    <string name="char_confirm_message">确定要保存角色设定修改吗？</string>
+    <string name="char_confirm_button">确定</string>
+    <string name="char_cancel_button">取消</string>
+    <string name="char_dialog_title">角色设定</string>
+    <string name="char_session_name">会话名称</string>
+    <string name="char_session_placeholder">新对话</string>
+    <string name="char_name_label">角色名</string>
+    <string name="char_name_placeholder">花谱</string>
+    <string name="char_persona_label">人设描述</string>
+    <string name="char_persona_desc">AI 将依据此描述来扮演角色，建议详细描述性格和说话风格</string>
+    <string name="char_persona_hint">描述角色的性格、说话风格…</string>
+    <string name="char_greeting_label">开场白</string>
+    <string name="char_greeting_desc">新对话时 AI 发送的第一条消息</string>
+    <string name="char_greeting_hint">你好呀~我是…</string>
+    <string name="char_save">保存</string>
+    <string name="char_reset">恢复默认</string>
+
+    <!-- SplashScreen -->
+    <string name="splash_title">🌸</string>
+    <string name="splash_name">花谱</string>
+    <string name="splash_subtitle">AI情感陪伴</string>
+
+    <!-- SendButton -->
+    <string name="send_desc">发送</string>
+
+    <!-- ChatViewModel errors -->
+    <string name="error_init">初始化失败：%s</string>
+    <string name="error_send">发送失败：%s</string>
+
+    <!-- UserAgreementScreen -->
+    <string name="agreement_title">花谱用户协议</string>
+    <string name="agreement_section1_title">一、总则</string>
+    <string name="agreement_section1_body">1.1 花谱（Hanafu）（以下简称"本软件"）是一款AI情感陪伴对话应用。您在使用本软件前，请仔细阅读本协议。使用本软件即表示您同意本协议的条款。1.2 本软件有权随时修改本协议，修改后的条款一经发布即生效。</string>
+    <string name="agreement_section2_title">二、服务内容</string>
+    <string name="agreement_section2_body">2.1 本软件提供基于人工智能技术的对话陪伴服务。2.2 本软件采用网络服务模式，服务质量可能受您的网络环境影响。2.3 本软件有权根据需要对服务内容进行调整、暂停或终止。</string>
+    <string name="agreement_section3_title">三、用户行为规范</string>
+    <string name="agreement_section3_body">3.1 您承诺不会将本软件用于任何非法目的。3.2 您不得尝试对本软件进行逆向工程、反编译或篡改。3.3 您不得通过本软件发送垃圾信息、骚扰他人或传播恶意内容。</string>
+    <string name="agreement_section4_title">四、隐私与数据</string>
+    <string name="agreement_section4_body">4.1 本软件默认将您的对话数据存储在本地设备上。4.2 您的对话内容会发送至AI服务提供商进行处理，建议不要分享敏感个人信息。4.3 本软件不会将您的个人数据用于商业目的。</string>
+    <string name="agreement_section5_title">五、免责声明</string>
+    <string name="agreement_section5_body">5.1 本软件按"现状"提供，不提供任何明示或暗示的保证。5.2 本软件不对因使用或无法使用本软件导致的任何损失承担责任。5.3 AI生成内容仅供参考，不代表本软件立场。</string>
+    <string name="agreement_section6_title">六、知识产权</string>
+    <string name="agreement_section6_body">6.1 本软件的代码、设计和品牌受知识产权法律保护。6.2 未经授权，您不得复制、修改或重新发布本软件。</string>
+    <string name="agreement_section7_title">七、其他</string>
+    <string name="agreement_section7_body">7.1 本协议构成您与本软件之间关于使用本软件的全部协议。7.2 如本协议的任何条款被认定为无效，其余条款仍然完全有效。</string>
+    <string name="agreement_signature">—— 清久Ace</string>
+    <string name="agreement_year">2025</string>
+    <string name="agreement_button">我已阅读并同意以上条款</string>
+    <string name="agreement_scroll_hint">请滚动查看全部协议内容</string>
+</resources>
